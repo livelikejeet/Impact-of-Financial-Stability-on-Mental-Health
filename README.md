@@ -85,9 +85,3 @@ Recommended order:
 
 This work was completed as part of the **Data Science Research Project** at the **University of Adelaide** under the supervision of **Dr Indu Bala**.
 Thanks to colleagues and peers who contributed feedback and ideas throughout the project.
-
-
-
----
-
-If you want, I can also draft a `requirements.txt` that matches these notebooks.
